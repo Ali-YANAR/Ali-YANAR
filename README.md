@@ -27,8 +27,8 @@ Modern web teknolojileriyle uçtan uca çözümler üreten, temiz kod prensipler
 
 ### 📫 Bana Ulaşın
 - 💼 [LinkedIn](https://linkedin.com)
-- 📧 [E-posta Gönder](mailto:aliyanar@example.com)
-- 🌐 [Kişisel Web Sitem](https://aliyanar.com)
+- 📧 [E-posta Gönder](mailto:aliyanar@aliyanar.com.tr)
+- 🌐 [Kişisel Web Sitem](https://aliyanar.com.tr)
 
 ---
 *"Kod yazmak, geleceği inşa etmektir."*
