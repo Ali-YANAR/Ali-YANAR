@@ -1,16 +1,34 @@
-## Hi there 👋
+ # Selam, Ben Ali YANAR! 👋
 
-<!--
-**Ali-YANAR/Ali-YANAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer**
 
-Here are some ideas to get you started:
+Modern web teknolojileriyle uçtan uca çözümler üreten, temiz kod prensiplerini benimsemiş bir yazılımcıyım. Karmaşık problemleri basit ve ölçeklenebilir dijital deneyimlere dönüştürmeyi seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Hakkımda
+- 💻 Şu an **Full Stack projeler** ve performans odaklı web uygulamaları geliştiriyorum.
+- 🌱 **Mikroservis mimarileri** ve **Bulut bilişim (Cloud)** konularında derinleşiyorum.
+- 🎯 Hedefim: Her zaman bir önceki günden daha iyi kod yazmak.
+
+### 🛠️ Teknolojik Yetkinlikler
+
+
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Frontend** | ![React](https://shields.io) ![Next.js](https://shields.io) ![TypeScript](https://shields.io) ![Tailwind](https://shields.io) |
+| **Backend** | ![Node.js](https://shields.io) ![Express](https://shields.io) ![Python](https://shields.io) |
+| **Veritabanı** | ![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io) ![Redis](https://shields.io) |
+| **Araçlar** | ![Docker](https://shields.io) ![Git](https://shields.io) ![AWS](https://shields.io) |
+
+### 📊 GitHub İstatistiklerim
+![Ali's Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+### 📫 Bana Ulaşın
+- 💼 [LinkedIn](https://linkedin.com)
+- 📧 [E-posta Gönder](mailto:aliyanar@example.com)
+- 🌐 [Kişisel Web Sitem](https://aliyanar.com)
+
+---
+*"Kod yazmak, geleceği inşa etmektir."*
